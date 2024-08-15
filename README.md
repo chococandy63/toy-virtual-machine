@@ -7,3 +7,16 @@ Creating a VM from scratch
 ![image](https://github.com/user-attachments/assets/505ddc60-2ddb-4f13-9024-fe088c964025)
 
 Check out quick [notes](./notes.md)
+
+
+Step 1: Compile
+
+```
+g++ vm.cpp -o vm
+```
+
+Step 2: Run 
+
+```
+./vm 2048.obj
+```
